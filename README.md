@@ -1,0 +1,1 @@
+This is a simple analog clock which has been made using HTML, CSS and JavaScript.
