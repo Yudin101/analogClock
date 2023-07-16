@@ -1,3 +1,18 @@
+body{
+	background-color: dimgray;
+}
+
+.cover{
+	position: absolute;
+	bottom: 260px;
+	left: 262px;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: white;
+	z-index: 1;
+}
+
 #clockContainer{
 	position: relative;
 	margin: auto;
